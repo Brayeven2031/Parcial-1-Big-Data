@@ -2,7 +2,7 @@
     "dev": {
         "app_function": "apps.f",
         "aws_region": "us-east-1",
-        "profile_name": "default",
+        "profile_name": "070749073205",
         "project_name": "lambda-process",
         "runtime": "python3.8",
         "s3_bucket": "casas-final-2302"
