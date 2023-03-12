@@ -47,9 +47,9 @@ jobs:
           flake8 lambda_process/apps.py
           pytest
           cd lambda_call/
-          zappa deploy dev
+          zappa update dev
           cd ../lambda_process/
-          zappa deploy dev
+          zappa update dev
           
           
           
