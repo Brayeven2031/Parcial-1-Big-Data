@@ -43,7 +43,9 @@ jobs:
           flake8 lambda_process/apps.py
       
       - name: Pytest Execution
-        run: pytest
+        run: |
+          pip install pytest
+          pytest
           
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
