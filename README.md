@@ -9,7 +9,7 @@
 <br>
 <i><b>Docente:</b></i> Camilo Rodriguez
 <br>
-<i><b>Fecha: </b>12/03/2022
+<i><b>Fecha: </b>12/03/2023
 <br>
 <b>Ciencias de la computación e inteligencia artificial</b></i>
 <br>
